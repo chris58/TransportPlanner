@@ -1,0 +1,8 @@
+Hei
+
+run the wicket viewer
+install fixture
+select New Transport Demand
+
+list is null when neither Bounded or Autocomplete is annotated to Destination class
+
